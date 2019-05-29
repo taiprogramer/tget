@@ -2,7 +2,7 @@
 
 **We build the world for our life.**
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-29/05/2019,%2009:52-green.svg)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-29/05/2019,%2010:21-green.svg)
 
 ![Badge Error](https://img.shields.io/badge/Available%20Error-Invalid%20Equation-red.svg)
 
@@ -15,6 +15,7 @@
 - [Liên tục](Calculus/A1/continuity)
 - [Đạo hàm](Calculus/A1/derivative)
 - [Các dạng đạo hàm thú vị](Calculus/A1/derivative1)
+- [Cực trị, giá trị lớn nhất, nhỏ nhất](Calculus/A1/extreme_minmax)
 
 ### Vi tích phân A2 - Calculus A2
 - [Hàm nhiều biến](Calculus/A2/function_more_args)
