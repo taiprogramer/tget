@@ -113,4 +113,6 @@ Khi đó tính phân 2 lớp của $f(x,y)$ trên miền $D$ được tính theo
 $$\int_{c}^{d}dy\int_{\varphi_1(y)}^{\varphi_2(y)}f(x,y)dx$$
 
 ___
+:point_right: [Check out exercises](Calculus/A2/Exercises/function_2args_integral0)
+
 :point_right: [TGet Homepage](/)
