@@ -1,0 +1,25 @@
+* {
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+li:hover {
+  -webkit-transition: 0.55s -webkit-transform;
+  transition: 0.55s -webkit-transform;
+  transition: 0.55s transform;
+  transition: 0.55s transform, 0.55s -webkit-transform;
+  -webkit-transform: translateX(10px);
+          transform: translateX(10px);
+}
+
+.katex {
+  text-align: left !important;
+}
+/*# sourceMappingURL=styles.css.map */
