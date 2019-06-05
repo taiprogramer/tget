@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-05/06/2019,%2008:48-green.svg)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-05/06/2019,%2008:53-green.svg)
 
 ## # Get Knowlegde
 ### Vi tích phân A1 - Calculus A1
