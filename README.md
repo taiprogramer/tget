@@ -3,6 +3,8 @@
 :point_right: [https://taiprogramer.github.io/tget](https://taiprogramer.github.io/tget)
 
 ## # Serve on your local
+![](https://img.shields.io/github/repo-size/taiprogramer/tget.svg)
+
 - Clone this project
 
 ```
