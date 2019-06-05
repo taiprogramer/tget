@@ -1,0 +1,22 @@
+* {
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  // transition: 0.75s transform;
+  // transform: translateX(10px);
+}
+
+li:hover {
+  transition: 0.55s transform;
+  transform: translateX(10px);
+}
+// docsify-katex plugin
+.katex {
+  text-align: left !important;
+}
