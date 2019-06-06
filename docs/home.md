@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-05/06/2019,%2009:01-green.svg)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-06/06/2019,%2021:46-green.svg)
 
 ## # Get Knowlegde
 ### Vi tích phân A1 - Calculus A1
@@ -19,6 +19,7 @@
 - [Hàm 2 biến :: Tích phân :: Đổi biến](Calculus/A2/function_2args_integral_var)
 - [Hàm 3 biến :: Tích phân](Calculus/A2/function_3args_integral)
 - [Hàm 3 biến :: Tích phân :: Đổi biến](Calculus/A2/function_3args_integral_var)
+- [Tích phân đường](Calculus/A2/line_integral)
 
 ###  Đại số tuyến tính & hình học
 - [Ma trận ](https://gist.github.com/taiprogramer/0d19f4f863c876829b1d044fcb1dec6c)
