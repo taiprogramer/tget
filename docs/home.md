@@ -1,5 +1,3 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-09/06/2019,%2020:13-green.svg)
-
 ## # Get Knowlegde
 ### Vi tích phân A1 - Calculus A1
 - [Giới hạn hàm số](Calculus/A1/limits)
@@ -21,6 +19,7 @@
 - [Hàm 3 biến :: Tích phân :: Đổi biến](Calculus/A2/function_3args_integral_var)
 - [Tích phân đường](Calculus/A2/line_integral)
 - [Tích phân mặt](Calculus/A2/surface_integral)
+- [Phương trình vi phân cấp 1](Calculus/A2/differential_equation_level1)
 
 ###  Đại số tuyến tính & hình học
 - [Ma trận ](https://gist.github.com/taiprogramer/0d19f4f863c876829b1d044fcb1dec6c)
