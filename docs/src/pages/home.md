@@ -21,7 +21,7 @@
 - [Tích phân mặt](Calculus/A2/surface_integral)
 - [Phương trình vi phân cấp 1](Calculus/A2/differential_equation_level1)
 
-###  Đại số tuyến tính & hình học
+###  Đại số tuyến tính - Linear Algebra
 - [Ma trận ](https://gist.github.com/taiprogramer/0d19f4f863c876829b1d044fcb1dec6c)
 - [Định thức](https://gist.github.com/taiprogramer/928b5fa3f6368b434ea11f4cc9cef91a)
 - [Hạng của ma trận](https://gist.github.com/taiprogramer/09992eadaf903726bea5d82edef0105e)
