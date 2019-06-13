@@ -20,6 +20,7 @@
 - [Tích phân đường](Calculus/A2/line_integral)
 - [Tích phân mặt](Calculus/A2/surface_integral)
 - [Phương trình vi phân cấp 1](Calculus/A2/differential_equation_level1)
+- [Phương trình vi phân cấp 2](Calculus/A2/differential_equation_level2)
 
 ###  Đại số tuyến tính - Linear Algebra
 - [Ma trận ](https://gist.github.com/taiprogramer/0d19f4f863c876829b1d044fcb1dec6c)
