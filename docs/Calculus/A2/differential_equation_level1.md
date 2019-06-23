@@ -36,7 +36,7 @@ $$f(\lambda x,\lambda y)=\lambda^n f(x,y)$$
 
 #### + Phương trình vi phân thuần nhất
 Dạng
-$$\frac{dx}{dy}=f(x,y)$$
+$$\frac{dy}{dx}=f(x,y)$$
 
 Trong đó,
 
