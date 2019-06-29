@@ -22,17 +22,17 @@
 - [Phương trình vi phân cấp 1](Calculus/A2/differential_equation_level1)
 - [Phương trình vi phân cấp 2](Calculus/A2/differential_equation_level2)
 
-###  Đại số tuyến tính - Linear Algebra
-- [Ma trận ](https://gist.github.com/taiprogramer/0d19f4f863c876829b1d044fcb1dec6c)
-- [Định thức](https://gist.github.com/taiprogramer/928b5fa3f6368b434ea11f4cc9cef91a)
-- [Hạng của ma trận](https://gist.github.com/taiprogramer/09992eadaf903726bea5d82edef0105e)
-- [Ma trận nghịch đảo](https://gist.github.com/taiprogramer/dc1e209bd60122bcd6b5d0cbc1b1fb59)
-- [Hệ phương trình tuyến tính](https://gist.github.com/taiprogramer/202d45745d1516c6a28cf93d7ce2dc93)
-- [Không gian vector](https://gist.github.com/taiprogramer/edaebd995087edacd87c7e64cc0511eb)
-- [Nhiều hơn về không gian vector](https://gist.github.com/taiprogramer/eec0bf781a18eca750b0f4092c6c8ed3)
-- [Nhiều hơn về không gian vector phần 2](https://gist.github.com/taiprogramer/1d7c47dff985f4ea1b49fa8f54f831a4)
-- [Chéo hóa ma trận](https://gist.github.com/taiprogramer/61e92a1a88b75b9107993a17970f0e10)
-- [Ánh xạ tuyến tính](https://gist.github.com/taiprogramer/347952281f4cf74fa5fd3abffec83570)
+### Đại số tuyến tính - Linear Algebra
+- [Ma trận ](LinearAlgebra/matrix)
+- [Định thức](LinearAlgebra/determinant)
+- [Hạng của ma trận](LinearAlgebra/rank_matrix)
+- [Ma trận nghịch đảo](LinearAlgebra/ma-tran-nghich-dao)
+- [Hệ phương trình tuyến tính](LinearAlgebra/he-phuong-trinh-tuyen-tinh)
+- [Không gian vector](LinearAlgebra/vector_space)
+- [Nhiều hơn về không gian vector](LinearAlgebra/more_about_vector_space)
+- [Nhiều hơn về không gian vector phần 2](LinearAlgebra/more_about_vector_space_2)
+- [Chéo hóa ma trận](LinearAlgebra/matrix_diagonalization)
+- [Ánh xạ tuyến tính](LinearAlgebra/linear_mapping)
 
 ### Xác suất thống kê - Probability & Statistics
 - [Giải tích tổ hợp - ĐTN](https://gist.github.com/taiprogramer/9f9371fc13e7526f5f9fb6edba52d6c9)
