@@ -35,16 +35,16 @@
 - [Ánh xạ tuyến tính](LinearAlgebra/linear_mapping)
 
 ### Xác suất thống kê - Probability & Statistics
-- [Giải tích tổ hợp - ĐTN](https://gist.github.com/taiprogramer/9f9371fc13e7526f5f9fb6edba52d6c9)
-- [Xác suất - ĐTN](https://gist.github.com/taiprogramer/64a707614dc356800441917f9db67a7f)
-- [Một số công thức xác suất - ĐTN](https://gist.github.com/taiprogramer/346c6ce3b134ebde8da53e20dc85feb7)
-- [Biến ngẫu nhiên - ĐTN](https://gist.github.com/taiprogramer/fe682019b86f38860eb4312252af2db2)
-- [Phân phối nhị thức - ĐTN](https://gist.github.com/taiprogramer/6bd492010abdfeba8484a7f112913387)
-- [Phân phối Poisson - ĐTN](https://gist.github.com/taiprogramer/bfee09c3ec0a084ad093ca22b2a7a67f)
-- [Phân phối siêu bội - ĐTN](https://gist.github.com/taiprogramer/e56e6555fc05aaab0dfc4f153ed01c2c)
-- [Phân phối chuẩn - ĐTN](https://gist.github.com/taiprogramer/80a404491d0f5cbe6fdb987841a34f5a)
-- [Ước lượng - ĐTN](https://gist.github.com/taiprogramer/6257473dffbe190ef2e85461e36bd4d8)
-- [Kiểm định - ĐTN](https://gist.github.com/taiprogramer/353cc3a0a451bca7e7a1d1a78146a238)
+- [Giải tích tổ hợp - ĐTN](ProbabilityStatistics/combinatory)
+- [Xác suất - ĐTN](ProbabilityStatistics/probability)
+- [Một số công thức xác suất - ĐTN](ProbabilityStatistics/probability_form)
+- [Biến ngẫu nhiên - ĐTN](ProbabilityStatistics/random_variables)
+- [Phân phối nhị thức - ĐTN](ProbabilityStatistics/binomial_distribution)
+- [Phân phối Poisson - ĐTN](ProbabilityStatistics/poisson_distribution)
+- [Phân phối siêu bội - ĐTN](ProbabilityStatistics/hypergeometric_distribution)
+- [Phân phối chuẩn - ĐTN](ProbabilityStatistics/normal_distribution)
+- [Ước lượng - ĐTN](ProbabilityStatistics/estimation)
+- [Kiểm định - ĐTN](ProbabilityStatistics/hypothesis_testing)
 
 ## # Test your knowledge online free
 Chỉ cần nhập tên của bạn và bắt đầu kiểm tra!
