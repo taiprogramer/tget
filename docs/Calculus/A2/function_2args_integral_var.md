@@ -80,4 +80,4 @@ $$\rightarrow S\begin{cases}0\leq r\leq2b\sin \varphi\\0\leq \varphi \leq \pi\en
 ___
 :point_right: [Check out exercises](Calculus/A2/Exercises/function_2args_integral1)
 
-:point_right: [TGet Homepage](/)
+:point_right: [TGet Homepage](/#vi-tích-phân-a2-calculus-a2)

@@ -106,4 +106,4 @@ Nếu $L$ là đường cong kín ($A\equiv B$) thì chiều dương của $L$ l
 $$\oint\limits_{L}Tdx+Ndy$$
 
 ___
-:point_right: [TGet Homepage](/)
+:point_right: [TGet Homepage](/#vi-tích-phân-a2-calculus-a2)

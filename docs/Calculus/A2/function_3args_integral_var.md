@@ -193,4 +193,4 @@ $$=-\frac{\pi}{2}(0-\frac{1}{5})$$
 $$=\frac{\pi}{10}$$
 
 ___
-:point_right: [TGet Homepage](/)
+:point_right: [TGet Homepage](/#vi-tích-phân-a2-calculus-a2)

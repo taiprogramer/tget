@@ -103,4 +103,4 @@ Suy ra phương trình tiếp tuyến của đường cong đã cho tại điể
 $$y=-x+2$$
 
 ___
-:point_right: [TGet Homepage](/)
+:point_right: [TGet Homepage](/#vi-tích-phân-a1-calculus-a1)

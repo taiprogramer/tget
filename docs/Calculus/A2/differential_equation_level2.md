@@ -84,4 +84,4 @@ $$y''+py'+qy=f_1(x)+f_2(x)$$
 Khi đó, nghiệm riêng của phương trình đã cho $Y=Y_1+Y_2$
 
 ___
-:point_right: [TGet Homepage](/)
+:point_right: [TGet Homepage](/#vi-tích-phân-a2-calculus-a2)

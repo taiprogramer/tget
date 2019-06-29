@@ -71,10 +71,5 @@ Bình tĩnh nào, tách hàm đã cho thành hàm hợp rồi áp dụng Chain R
 
 ![](https://latex.codecogs.com/gif.latex?%5CLeftrightarrow%20y%27%3D%5Cfrac%7B-1%7D%7B%5Csqrt%7B%5Ccos%20%28%5Csin%20%28%5Cln%20%28x%5E2&plus;1%29%29%29%7D%7D.%5Csin%20%28%5Csin%20%28%5Cln%20%28x%5E2&plus;1%29%29%29.%5Ccos%20%28%5Cln%20%28x%5E2&plus;1%29%29.%5Cfrac%7B1%7D%7Bx%5E2&plus;1%7D.x)
 
-## # Tài nguyên
-- [Online LaTeX Equation Editor - https://www.codecogs.com/latex/eqneditor.php](https://www.codecogs.com/latex/eqneditor.php)
-- [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
-- [TGet Homepage](/)
 ___
-
-:love_letter: Report any issue via my [Telegram](https://t.me/taiprogramer)
+:point_right: [TGet Homepage](/#vi-tích-phân-a1-calculus-a1)

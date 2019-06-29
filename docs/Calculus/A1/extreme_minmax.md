@@ -22,4 +22,4 @@ Các bước tính giá trị lớn nhất, nhỏ nhất của $f(x)$ trên đo�
 - Tính giá trị $f(x)$ tại các điểm dừng và so sánh với giá trị của $f(x)$ tại 2 đầu mút để suy ra giá trị lớn nhất, nhỏ nhất.
 
 ___
-:point_right: [TGet Homepage](/)
+:point_right: [TGet Homepage](/#vi-tích-phân-a1-calculus-a1)

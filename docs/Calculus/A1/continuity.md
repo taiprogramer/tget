@@ -97,10 +97,5 @@ ___
 
 Vậy khi m = 1 thì hàm số đã cho liên tục
 
-## # Tài nguyên
-- [Online LaTeX Equation Editor - https://www.codecogs.com/latex/eqneditor.php](https://www.codecogs.com/latex/eqneditor.php)
-- [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
-- [TGet Homepage](/)
 ___
-
-:love_letter: Report any issue via my [Telegram](https://t.me/taiprogramer)
+:point_right: [TGet Homepage](/#vi-tích-phân-a1-calculus-a1)

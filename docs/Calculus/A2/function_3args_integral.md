@@ -43,5 +43,6 @@ Vì đây là ta đang xét trong tọa độ $Oxyz$ (tọa độ 3 chiều) nê
 
 Khi đó tính phân 3 lớp của $f(x,y,z)$ trên miền $V$ được tính theo công thức
 $$\int_{a}^{b}dx\int_{c}^{d}dy\int_{e}^{f}f(x,y,z)dz$$
+
 ___
-:point_right: [TGet Homepage](/)
+:point_right: [TGet Homepage](/#vi-tích-phân-a2-calculus-a2)

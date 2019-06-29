@@ -77,4 +77,4 @@ Một số mặt kín như: mặt cầu, mặt bao quanh khối trụ,...
 Mặt kín thì các vector pháp tuyến chỉ có 2 lựa chọn là hướng vô trong hoặc hướng ra ngoài thôi.
 
 ___
-:point_right: [TGet Homepage](/)
+:point_right: [TGet Homepage](/#vi-tích-phân-a2-calculus-a2)

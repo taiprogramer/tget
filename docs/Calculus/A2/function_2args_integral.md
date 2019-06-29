@@ -115,4 +115,4 @@ $$\int_{c}^{d}dy\int_{\varphi_1(y)}^{\varphi_2(y)}f(x,y)dx$$
 ___
 :point_right: [Check out exercises](Calculus/A2/Exercises/function_2args_integral0)
 
-:point_right: [TGet Homepage](/)
+:point_right: [TGet Homepage](/#vi-tích-phân-a2-calculus-a2)

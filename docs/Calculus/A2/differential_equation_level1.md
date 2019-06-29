@@ -89,4 +89,4 @@ $$\mu=\int N(x)e^{\int T(x)dx}dx$$
 $C$ là hằng số tự do (can be anything)
 
 ___
-:point_right: [TGet Homepage](/)
+:point_right: [TGet Homepage](/#vi-tích-phân-a2-calculus-a2)

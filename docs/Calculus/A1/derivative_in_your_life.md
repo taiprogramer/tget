@@ -72,4 +72,4 @@ $\rightarrow$ tại $\mu=22$ thì $U(\mu)$ là cực đại
 Vậy với $\mu=22$ (nghìn đồng) thì lợi nhuận thu được là lớn nhất.
 
 ___
-:point_right: [TGet Homepage](/)
+:point_right: [TGet Homepage](/#vi-tích-phân-a1-calculus-a1)

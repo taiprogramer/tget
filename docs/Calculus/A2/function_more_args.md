@@ -33,9 +33,5 @@ Một cách tổng quát, đồ thị của hàm nhiều biến được biểu 
 
 ![Graph of a function](https://latex.codecogs.com/gif.latex?\dpi{150}&space;G=\begin{Bmatrix}&space;(x_1,&space;x_2,...,x_n,f(x_1,&space;x_2,...,x_n))&space;:&space;(x_1,x_2,...,x_n)\in&space;D&space;\end{Bmatrix}\subset&space;R^{(n&plus;1)})
 
-## # Tài nguyên
-- [Online LaTeX Equation Editor - https://www.codecogs.com/latex/eqneditor.php](https://www.codecogs.com/latex/eqneditor.php)
-- [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
-- [TGet Homepage](/)
 ___
-:love_letter: Report any issue via my [Telegram](https://t.me/taiprogramer)
+:point_right: [TGet Homepage](/#vi-tích-phân-a2-calculus-a2)
