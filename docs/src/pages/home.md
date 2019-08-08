@@ -46,6 +46,10 @@
 - [Ước lượng - ĐTN](ProbabilityStatistics/estimation)
 - [Kiểm định - ĐTN](ProbabilityStatistics/hypothesis_testing)
 
+### Toán rời rạc - Discrete Mathematics
+- [Khái niệm căn bản](DiscreteMathematics/intro)
+- [Tài liệu tham khảo](DiscreteMathematics/references)
+
 ## # Test your knowledge online free
 Chỉ cần nhập tên của bạn và bắt đầu kiểm tra!
 
