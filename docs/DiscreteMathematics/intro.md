@@ -215,4 +215,47 @@ Trong đó,
 - F: là mệnh đề (kết hợp) luôn luôn có chân trị là sai (False) (hằng sai)
 
 ___
+
+### Bài tập
+#### + Bài 1: Chứng minh hằng đúng
+a) $((P\vee Q)\wedge \neg Q)\rightarrow P$
+$$ = \neg ((P \vee Q) \wedge \neg Q) \vee P $$
+$$ = \neg (P \vee Q) \vee Q \vee P $$
+$$ = T $$
+
+b) $ ((P \rightarrow Q) \wedge (\neg P \rightarrow R)) \rightarrow (Q \vee R)$
+$$ =  \neg ((\neg P \vee Q) \wedge (P \vee R)) \vee Q \vee R $$
+$$ =  \neg (\neg P \vee Q) \vee \neg (P \vee R) \vee Q \vee R $$
+$$ =  (P \wedge \neg Q) \vee (\neg P \wedge \neg R) \vee Q \vee R $$
+$$ =  ((Q \vee \neg Q) \wedge (Q \vee P)) \vee ((R \vee \neg R) \wedge (R \vee \neg P)) $$
+$$ =  Q \vee P \vee R \vee \neg P $$
+$$ =  T$$
+
+c) $ ((\neg P \vee Q) \wedge (\neg Q \vee R)) \rightarrow (P \rightarrow R) $
+$$ =  \neg ((\neg P \vee Q) \wedge (\neg Q \vee R)) \vee (\neg P \vee R) $$
+$$ =  \neg (\neg P \vee Q) \vee \neg (\neg Q \vee R) \vee \neg P \vee R $$
+$$ =  (P \wedge \neg Q) \vee (Q \wedge \neg R) \vee \neg P \vee R $$
+$$ =  ((\neg P \vee P) \wedge (\neg P \vee \neg Q)) \vee ((R \vee \neg R) \wedge (R \vee Q)) $$
+$$ =  \neg P \vee \neg Q \vee R \vee Q $$
+$$ =  T $$
+
+d) $ (P \wedge Q) \rightarrow P $
+$$ = \neg (P \wedge Q) \vee P $$
+$$ = \neg P \vee \neg Q \vee P $$
+$$ = T $$
+
+e) $ P \rightarrow (\neg P \rightarrow P) $
+$$ = \neg P \vee P \vee P $$
+$$ = T $$
+
+f) $ \neg (P \vee \neg Q) \rightarrow \neg P $
+$$ = P \vee \neg Q \vee \neg P $$
+$$ = T $$
+
+g) $ P \rightarrow ((Q \rightarrow (P \wedge Q))) $
+$$ = \neg P \vee \neg Q \vee (P \wedge Q) $$
+$$ = \neg (P \wedge Q) \vee (P \wedge Q) $$
+$$ = T $$
+
+___
 :point_right: [TGet Homepage](/#toán-rời-rạc-discrete-mathematics)
