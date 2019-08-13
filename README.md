@@ -5,37 +5,14 @@
 ## # Serve on your local
 ![](https://img.shields.io/github/repo-size/taiprogramer/tget.svg)
 
-- Clone this project
-
-```
-git clone https://github.com/taiprogramer/tget
-```
-
-or [download zip file](https://github.com/taiprogramer/tget/archive/master.zip)
-
 (if you download zip file, remember to extract :D)
 
-Before do next step, make sure you are in tget directory
-
-```
-cd tget
-```
-
-- Install docsify-cli
-
-Because TGet use docsify for generate documentation so just install it (on local)
-
-```
-npm install docsify-cli
-```
-
-Now, everything is ready!
-
-- Serve **docs/** directory
-
-```
-./node_modules/.bin/docsify serve docs/
-```
+|Command|Description|
+|---|---|
+|`git clone https://github.com/taiprogramer/tget`|Clone this project or [download zip file](https://github.com/taiprogramer/tget/archive/master.zip)|
+|`cd tget`|cd into project root directory|
+|`npm install docsify-cli`|Install docsify-cli|
+|`./node_modules/.bin/docsify serve docs/`|Start server at localhost:3000|
 
 **Another way to serve**
 
