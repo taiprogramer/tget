@@ -48,6 +48,7 @@
 
 ### Toán rời rạc - Discrete Mathematics
 - [Khái niệm căn bản](DiscreteMathematics/intro)
+- [Vị từ](DiscreteMathematics/predicates)
 - [Tài liệu tham khảo](DiscreteMathematics/references)
 
 ## # Test your knowledge online free
