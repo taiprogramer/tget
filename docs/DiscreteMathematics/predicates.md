@@ -52,12 +52,28 @@ Như em đã đọc ở trên, khi giá trị của biến xác định thì hà
 #### + Lượng từ với mọi - The universal quantifier
 Định lượng với mọi của $P(x)$ trên miền xác định cụ thể là một mệnh đề khẳng định rằng $P(x)$ đúng với tất cả các giá trị của $x$ trên miền xác định đó.
 
+$$
+\forall x P(x) \Leftrightarrow P(x_1) \wedge P(x_2) \wedge P(x_3) \wedge ...
+$$
+
 Kí hiệu: $\forall x P(x)$ biểu diễn định lượng với mọi của $P(x)$. Trong đó, $\forall$ được gọi là lượng từ với mọi.
+
+Đặc điểm: Khó đúng, dễ sai (Vì chỉ cần có 1 cái sai là toàn bộ sẽ không đúng :D)
+
+Khi $x \in \empty$ thì định lượng với mọi **luôn đúng** vì không thể tìm thấy một $x$ nào để nó sai.
 
 #### + Lượng từ tồn tại - The existential quantifier
 Định lượng tồn tại của $P(x)$ trên miền xác định cụ thể là một mệnh đề khẳng định rằng $P(x)$ đúng với ít nhất một giá trị của $x$ trên miền xác định đó.
 
+$$
+\exist x P(x) \Leftrightarrow P(x_1) \vee P(x_2) \vee P(x_3) \vee ...
+$$
+
 Kí hiệu: $\exist x P(x)$ biểu diễn định lượng tồn tại của $P(x)$. Trong đó, $\exist$ được gọi là lượng từ tồn tại.
+
+Đặc điểm: Dễ đúng, khó sai (Vì chỉ cần có 1 cái đúng là toàn bộ sẽ không sai :D)
+
+Khi $x \in \empty$ thì định lượng tồn tại  **luôn sai** vì không thể tìm thấy một $x$ nào để nó đúng.
 
 #### Bảng chân trị của định lượng
 
