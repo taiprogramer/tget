@@ -47,8 +47,8 @@
 - [Kiểm định - ĐTN](ProbabilityStatistics/hypothesis_testing)
 
 ### Toán rời rạc - Discrete Mathematics
-- [Khái niệm căn bản](DiscreteMathematics/intro)
-- [Vị từ](DiscreteMathematics/predicates)
+- [Mệnh đề và những người bạn](DiscreteMathematics/propositions)
+- [Vị từ và những người bạn](DiscreteMathematics/predicates)
 - [Tài liệu tham khảo](DiscreteMathematics/references)
 
 ## # Test your knowledge online free

@@ -1,6 +1,6 @@
 # Vị từ - Predicates
 ## Mục lục
-:question: Khái niệm căn bản
+:question: Vị từ - Predicates
 
 :question: Lượng từ - Quantifiers
 
@@ -9,7 +9,7 @@
 :question: Mệnh đề tương đương *logic* - Logical Equivalences
 
 ## Nội dung
-### Khái niệm căn bản
+### Vị từ - Predicates
 **Vị từ** là một phát biểu mà giá trị đúng sai của nó phụ thuộc vào 1 hay nhiều biến.
 
 Kí hiệu:

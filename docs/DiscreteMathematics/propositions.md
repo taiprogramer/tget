@@ -1,4 +1,4 @@
-# Khái niệm căn bản
+# Mệnh đề - Proposition
 ## # Mục lục
 :question: Mệnh đề - Proposition
 
