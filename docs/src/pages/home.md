@@ -49,6 +49,7 @@
 ### Toán rời rạc - Discrete Mathematics
 - [Mệnh đề và những người bạn](DiscreteMathematics/propositions)
 - [Vị từ và những người bạn](DiscreteMathematics/predicates)
+- [Quy tắc suy luận](DiscreteMathematics/rules_of_inference)
 - [Tài liệu tham khảo](DiscreteMathematics/references)
 
 <!-- ## # Test your knowledge online free
