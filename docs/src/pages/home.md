@@ -65,6 +65,4 @@ Chỉ cần nhập tên của bạn và bắt đầu kiểm tra!
 - [Profile Pictures Album](https://photos.app.goo.gl/4hCtxLkckUwtGdbP8)
 
 ## # Contact
-[![Twitter](https://img.shields.io/twitter/follow/taiprogramer.svg?label=Follow&style=social)](https://twitter.com/taiprogramer) 
-
-:love_letter: Report any issue via my [Telegram](https://t.me/taiprogramer)
+:point_right: [Portfolio :: Contact Page ](https://taiprogramer.github.io/contact)
