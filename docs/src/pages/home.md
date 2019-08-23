@@ -51,19 +51,18 @@
 - [Vị từ và những người bạn](DiscreteMathematics/predicates)
 - [Tài liệu tham khảo](DiscreteMathematics/references)
 
-## # Test your knowledge online free
+<!-- ## # Test your knowledge online free
 Chỉ cần nhập tên của bạn và bắt đầu kiểm tra!
 
 ### Programming Knowledge
 - [Introduction of Programming Language [12:09, 08/02/2019]](https://testmoz.com/1965349)
 
 ### Mathematics Knowledge
-- [Giải tích tổ hợp - Làm quen [20:54, 07/01/2019]](https://testmoz.com/1966791)
+- [Giải tích tổ hợp - Làm quen [20:54, 07/01/2019]](https://testmoz.com/1966791) -->
 
 ## # My Resource
 - [Mobile Wallpapers Album](https://photos.app.goo.gl/VJWwfqSSizBuUmsp6)
 - [Profile Pictures Album](https://photos.app.goo.gl/4hCtxLkckUwtGdbP8)
-- [Desktop Wallpapers Album](https://photos.app.goo.gl/Ukefwbm7dev8VufUA)
 
 ## # Contact
 [![Twitter](https://img.shields.io/twitter/follow/taiprogramer.svg?label=Follow&style=social)](https://twitter.com/taiprogramer) 
