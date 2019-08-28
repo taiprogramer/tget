@@ -51,6 +51,7 @@
 - [Vị từ và những người bạn](DiscreteMathematics/predicates)
 - [Quy tắc suy luận](DiscreteMathematics/rules_of_inference)
 - [Phương pháp chứng minh suy luận hợp lệ](DiscreteMathematics/proofs)
+- [Bài tập chứng minh suy luận hợp lệ](DiscreteMathematics/proofs_exercises)
 - [Tài liệu tham khảo](DiscreteMathematics/references)
 
 <!-- ## # Test your knowledge online free
