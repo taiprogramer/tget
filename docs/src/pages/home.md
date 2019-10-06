@@ -54,6 +54,7 @@
 - [Bài tập chứng minh suy luận hợp lệ](DiscreteMathematics/proofs_exercises)
 - [Đếm](DiscreteMathematics/counting)
 - [Quan hệ](DiscreteMathematics/relations)
+- [Quan hệ đặc biệt](DiscreteMathematics/special_relations)
 - [Tài liệu tham khảo](DiscreteMathematics/references)
 
 <!-- ## # Test your knowledge online free
