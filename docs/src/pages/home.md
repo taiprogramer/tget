@@ -57,6 +57,9 @@
 - [Quan hệ đặc biệt](DiscreteMathematics/special_relations)
 - [Tài liệu tham khảo](DiscreteMathematics/references)
 
+### Cơ sở dữ liệu quan hệ - Relational Databases
+- [Đại số quan hệ](RelationalDatabases/relational_algebra)
+
 ### Lập trình - Programming
 - [Workspace Setting Up For programmer](Programming/workspace-setting-up)
 
