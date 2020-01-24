@@ -21,8 +21,3 @@ If you are using npm@5.2.0 or higher, just simply type
 ```
 npx docsify-cli serve docs/
 ```
-
-## # Donating
-Support this project and other from [taiprogramer](https://github.com/taiprogramer) via [Paypal](https://www.paypal.me/taiprogramer/1)
-
-[![](docs/src/images/paypal-support-button.svg)](https://www.paypal.me/taiprogramer/1)
