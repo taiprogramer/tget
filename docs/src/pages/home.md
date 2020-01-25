@@ -61,7 +61,7 @@
 - [Đại số quan hệ](RelationalDatabases/relational_algebra)
 
 ### Lập trình - Programming
-- [Workspace Setting Up For programmer](Programming/workspace-setting-up)
+- [My Workspace](Programming/workspace-setting-up)
 
 <!-- ## # Test your knowledge online free
 Chỉ cần nhập tên của bạn và bắt đầu kiểm tra!
