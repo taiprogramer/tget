@@ -87,6 +87,8 @@ Kết quả
 |Le Cam B|24/10/1955|
 |Vo Van Khanh C|27/10/1955|
 
+**Notes:** Một điều nữa em cần chú ý đó là phép chiếu trả về một bảng với các dòng không trùng nhau. Vậy thôi!
+
 **Kết hợp giữa phép chọn và phép chiếu**
 
 Nguyên tắc: Chọn trước, chiếu sau (Select first, then project)
