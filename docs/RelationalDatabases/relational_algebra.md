@@ -4,8 +4,6 @@
 
 :question: Toán tử 1 ngôi - Unary Operators
 
-:question: Toán tử 2 ngôi - Binary Operators
-
 ## Nội dung
 ### Giới thiệu - Introduction
 Khi em làm việc với cơ sở dữ liệu quan hệ, em phải tạo các bảng (table).
