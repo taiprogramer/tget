@@ -61,10 +61,10 @@
 - [Đại số quan hệ](RelationalDatabases/relational_algebra)
 - [Đại số quan hệ: Toán tử 2 ngôi](RelationalDatabases/relational_algebra_binary_operators)
 
-### Lập trình - Programming
+<!-- ### Lập trình - Programming
 - [My Workspace](Programming/workspace-setting-up)
 
-<!-- ## # Test your knowledge online free
+## # Test your knowledge online free
 Chỉ cần nhập tên của bạn và bắt đầu kiểm tra!
 
 ### Programming Knowledge
