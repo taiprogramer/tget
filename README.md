@@ -1,6 +1,6 @@
 # TGet - where you can get something from taiprogramer
 
-:point_right: [https://taiprogramer.github.io/tget](https://taiprogramer.github.io/tget)
+:point_right: [https://tget.taiprogramer.xyz](https://tget.taiprogramer.xyz)
 
 ## # Serve on your local
 ![](https://img.shields.io/github/repo-size/taiprogramer/tget.svg)
