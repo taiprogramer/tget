@@ -99,4 +99,4 @@ My Resource
 Contact
 =======
 
-:point_right: [Portfolio :: Contact Page ](https://taiprogramer.github.io/contact)
+- [taiprogramer.xyz](https://taiprogramer.xyz)
