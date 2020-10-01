@@ -4,5 +4,9 @@
 
 **We build the world for our life.**
 
-[TGet for Android](https://github.com/taiprogramer/tget/releases/download/v0.0.1/TGet-v0.0.1-alpha.apk)
-[Jump to docs](/#-get-knowlegde)
+**All documents are written or approved by taiprogramer.**
+
+**Free to use but without any warranty.**
+
+[taiprogramer's homepage](https://taiprogramer.xyz)
+[Jump to TGet](/#get-knowlegde)
