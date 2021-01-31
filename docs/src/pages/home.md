@@ -94,7 +94,6 @@ My Resource
 ===========
 
 -	[Mobile Wallpapers Album](https://photos.app.goo.gl/VJWwfqSSizBuUmsp6)
--	[Profile Pictures Album](https://photos.app.goo.gl/4hCtxLkckUwtGdbP8)
 
 Contact
 =======
