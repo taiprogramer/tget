@@ -78,6 +78,12 @@ Cơ sở dữ liệu quan hệ - Relational Databases
 -	[Đại số quan hệ: Toán tử 2 ngôi](RelationalDatabases/relational_algebra_binary_operators)
 -	[Khóa](RelationalDatabases/keys)
 
+An toàn hệ thống - System Security
+----------------------------------
+
+-	[Tấn công Hijacking](SystemSecurity/hijacking)
+
+
 <!-- ### Lập trình - Programming
 - [My Workspace](Programming/workspace-setting-up)
 
