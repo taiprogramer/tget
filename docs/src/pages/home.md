@@ -81,7 +81,7 @@ Cơ sở dữ liệu quan hệ - Relational Databases
 An toàn hệ thống - System Security
 ----------------------------------
 
--	[Tấn công Hijacking](SystemSecurity/hijacking)
+-	[Tấn công Control Hijacking](SystemSecurity/control_hijacking)
 
 
 <!-- ### Lập trình - Programming
