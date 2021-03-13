@@ -87,6 +87,7 @@ Nguyên lí máy học - Machine Learning
 ------------------------------------
 
 -	[Tổng quan](MachineLearning/overview)
+-	[Cây quyết định](MachineLearning/decision_tree)
 
 <!-- ### Lập trình - Programming
 - [My Workspace](Programming/workspace-setting-up)
