@@ -78,18 +78,18 @@ Cơ sở dữ liệu quan hệ - Relational Databases
 -	[Đại số quan hệ: Toán tử 2 ngôi](RelationalDatabases/relational_algebra_binary_operators)
 -	[Khóa](RelationalDatabases/keys)
 
-An toàn hệ thống - System Security
+An toàn hệ thống - System Security
 ----------------------------------
 
--	[Tấn công Control Hijacking](SystemSecurity/control_hijacking)
+-	[Tấn công Control Hijacking](SystemSecurity/control_hijacking)
 
-Nguyên lí máy học - Machine Learning
+Nguyên lí máy học - Machine Learning
 ------------------------------------
 
--	[Tổng quan](MachineLearning/overview)
--	[Cây quyết định](MachineLearning/decision_tree)
+-	[Tổng quan](MachineLearning/overview)
+-	[Cây quyết định](MachineLearning/decision_tree)
 
-<!-- ### Lập trình - Programming
+<!-- ### Lập trình - Programming
 - [My Workspace](Programming/workspace-setting-up)
 
 ## # Test your knowledge online free
